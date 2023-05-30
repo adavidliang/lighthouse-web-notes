@@ -1,5 +1,4 @@
-# [Jielong](https://github.com/adavidliang)'s Notes
+# [Jielong]'s Notes
 ## Summary
 
-This repository contains all of the note in lighthouse Bootcamp.
-  
+This repository contains all of the note taken by [Jielong](https://github.com/adavidliang) in lighthouse Bootcamp.
